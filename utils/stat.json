@@ -1,0 +1,27 @@
+{
+	"sent": {
+		"chat": 4026,
+		"sticker": 571,
+		"video": 104,
+		"image": 78,
+		"ptt": 4,
+		"document": 8,
+		"vcard": 1
+	},
+	"receive": {
+		"video": 717,
+		"chat": 14297,
+		"image": 1312,
+		"sticker": 6621,
+		"call_log": 1,
+		"gp2": 386,
+		"e2e_notification": 16,
+		"ptt": 224,
+		"vcard": 3,
+		"ciphertext": 21,
+		"audio": 63,
+		"groups_v4_invite": 1,
+		"document": 47,
+		"notification_template": 1
+	}
+}
