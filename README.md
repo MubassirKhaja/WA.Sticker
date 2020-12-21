@@ -1,19 +1,6 @@
 <div align="center">
  
-# Whatsapp Bot - sticker creator
-[![Codefactor](https://www.codefactor.io/repository/github/yogasakti/imagetosticker/badge)](https://www.codefactor.io/repository/github/yogasakti/imagetosticker)
-<details>
- <summary>🥟 Help me!</summary>
-
- [Saweria](https://saweria.co/donate/yogasakti)
- 
- [Trakteer](https://trakteer.id/red-emperor)
- 
- [Paypal.me](https://paypal.me/yshputra)
- 
-</details>
-</div>
-
+# Whatsapp Automation - Sticker Creator
 
 
 ## Features
@@ -45,7 +32,7 @@
 |      BETA        |   Anti Spam                                   |
 
 
-| Grup Only  |                     Feature                     |
+| Group Only  |                     Feature                     |
 | :------------: | :---------------------------------------------: |
 |       ✅        |   Promote User                  |
 |       ✅        |   Demote User                   |
