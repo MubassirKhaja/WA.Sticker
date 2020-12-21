@@ -17,7 +17,6 @@
 
 | Downloader |                     Feature                |
 | :------------: | :---------------------------------------------: |
-|       ✅        |   Tiktok Downloader (No WM & WM)              |
 |       ✅        |   Twitter Video Downloader                    |
 |       ✅        |   Facebook Video Downloader (SD & HD)         |
 |       ✅      |   Instagram Video Downloader                  |
@@ -28,7 +27,6 @@
 |       ✅        |   Create Custom meme (top text & bottom text)  |
 |       ✅        |   Translate text (quote only)                  |
 |       ✅        |   check data on the spread of Covid-19 in certain locations|
-|       ✅        |   Check Shipping info (indonesia only)         |
 |      BETA        |   Anti Spam                                   |
 
 
@@ -37,11 +35,11 @@
 |       ✅        |   Promote User                  |
 |       ✅        |   Demote User                   |
 |       ✅        |   Kick User                     |
-|       ✅        |   Delete bot message            |
-|       https://bit.ly/3hmgD4R        |   Mention All User      |
+|       ✅        |   Delete message            |
+|       https://bit.ly/3hmgD4R        |   Mention All Users      |
 
 ## To-Do
- - Add More Feature
+ - Add More Features
  - More refactoring
  
 ---
@@ -53,10 +51,6 @@ This project require NodeJS v12.
 ### Install
 Clone this project
 
-```bash
-> git clone https://github.com/YogaSakti/imageToSticker.git
-> cd imageToSticker
-```
 
 Install the dependencies:
 
